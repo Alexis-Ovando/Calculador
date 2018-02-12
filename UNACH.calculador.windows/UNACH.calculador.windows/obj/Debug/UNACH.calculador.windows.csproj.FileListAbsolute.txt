@@ -1,0 +1,9 @@
+D:\1Semestres\8º Semestre B\Software\Proyectos\UNACH.calculador.windows\UNACH.calculador.windows\bin\Debug\UNACH.calculador.windows.exe.config
+D:\1Semestres\8º Semestre B\Software\Proyectos\UNACH.calculador.windows\UNACH.calculador.windows\bin\Debug\UNACH.calculador.windows.exe
+D:\1Semestres\8º Semestre B\Software\Proyectos\UNACH.calculador.windows\UNACH.calculador.windows\bin\Debug\UNACH.calculador.windows.pdb
+D:\1Semestres\8º Semestre B\Software\Proyectos\UNACH.calculador.windows\UNACH.calculador.windows\obj\Debug\UNACH.calculador.windows.csprojResolveAssemblyReference.cache
+D:\1Semestres\8º Semestre B\Software\Proyectos\UNACH.calculador.windows\UNACH.calculador.windows\obj\Debug\UNACH.calculador.windows.Form1.resources
+D:\1Semestres\8º Semestre B\Software\Proyectos\UNACH.calculador.windows\UNACH.calculador.windows\obj\Debug\UNACH.calculador.windows.Properties.Resources.resources
+D:\1Semestres\8º Semestre B\Software\Proyectos\UNACH.calculador.windows\UNACH.calculador.windows\obj\Debug\UNACH.calculador.windows.csproj.GenerateResource.Cache
+D:\1Semestres\8º Semestre B\Software\Proyectos\UNACH.calculador.windows\UNACH.calculador.windows\obj\Debug\UNACH.calculador.windows.exe
+D:\1Semestres\8º Semestre B\Software\Proyectos\UNACH.calculador.windows\UNACH.calculador.windows\obj\Debug\UNACH.calculador.windows.pdb
